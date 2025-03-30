@@ -1,5 +1,7 @@
 github.com/Rian-wahid/seal v0.0.0-20250330170024-55d507c0d4ef h1:WMw3m6gkHYc+yozy5+HnjcHhdRoWtjcqMzj5lCfk21M=
 github.com/Rian-wahid/seal v0.0.0-20250330170024-55d507c0d4ef/go.mod h1:S798+baV28PXSZmWa3V4tYuSZUPWmywmFoU4DkHtbsQ=
+github.com/Rian-wahid/seal v1.0.0 h1:fsE1zAmlY2w+86l5sGKJFcd8MSeBZkGiQq7Nzm7TNo4=
+github.com/Rian-wahid/seal v1.0.0/go.mod h1:S798+baV28PXSZmWa3V4tYuSZUPWmywmFoU4DkHtbsQ=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
